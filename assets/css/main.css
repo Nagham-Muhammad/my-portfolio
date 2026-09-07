@@ -2206,7 +2206,7 @@ section,
 
 @media (max-width: 768px) {
   .portfolio .isotope-container .portfolio-item:nth-child(4) .portfolio-image img {
-    height: 3000px;
+    height: 300px;
   }
 }
 
